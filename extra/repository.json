@@ -1,0 +1,6 @@
+{
+  "name": "extra",
+  "description": "Extra Repository for Uzbek Linux",
+  "maintainer": "uzbeklinux",
+  "programs": "https://github.com/UzbekLinux/uzpm-repos/raw/refs/heads/main/extra/programs.json"
+}
