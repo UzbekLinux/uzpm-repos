@@ -4,7 +4,8 @@
    "name": "halalfetch",
    "description": "System information tool for Uzbek Linux",
    "version": "1.0",
-   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/halalfetch.zip"
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/halalfetch.zip",
+   "depends": ["test"]
   }
  ]
 }
