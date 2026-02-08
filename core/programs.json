@@ -17,6 +17,12 @@
    "description": "GNU core utilities",
    "version": "none",
    "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/coreutils.zip"
+  },
+  {
+   "name": "binutils",
+   "description": "GNU Binutils",
+   "version": "none",
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/binutils.zip"
   }
  ]
 }
