@@ -23,6 +23,14 @@
    "description": "GNU Binutils",
    "version": "none",
    "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/binutils.zip"
-  }
+  },
+  {
+   "name": "acl",
+   "description": "Access control list utilities, libraries and headers",
+   "version": "2.3.2",
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/acl.zip"
+  },
+  
+
  ]
 }
